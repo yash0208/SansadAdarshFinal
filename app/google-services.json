@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870766014178",
+    "firebase_url": "https://sansadadarsh-8047d.firebaseio.com",
+    "project_id": "sansadadarsh-8047d",
+    "storage_bucket": "sansadadarsh-8047d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870766014178:android:a77975390ea123a30ff8bb",
+        "android_client_info": {
+          "package_name": "com.rajaryan.sansadadarsh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870766014178-rp4sh402a8o39r291clh7hv34imihqg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajaryan.sansadadarsh",
+            "certificate_hash": "476056710f1209e42883366be9f75e6aee4c3744"
+          }
+        },
+        {
+          "client_id": "870766014178-65s74uo0442kbhj0lt0end3u2lpshhig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIT1X2njRF6yPEKRTQx39SQeyuvFoAdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870766014178-65s74uo0442kbhj0lt0end3u2lpshhig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
